@@ -1,10 +1,9 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5CC,50:FFD700,100:E6C200&height=220&section=header&text=Pranav%20Gupta&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF8DC,40:FFE066,70:FFD700,100:E6C200&height=260&section=header&text=Pranav%20Dinesh%20Gupta&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18" />
 </p>
 
 <p align="center">
-  <b>🚀 Data Scientist | Machine Learning Engineer | AI Enthusiast</b><br>
   <i>Transforming Data into Intelligent Solutions</i>
 </p>
 
