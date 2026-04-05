@@ -17,7 +17,7 @@
 ---
 
 # 👨‍💻 About Me
-- 🎯 Aspiring **AI Engineer & Data Scientist**
+- 🎯 **AI / ML Engineer & Data Scientist**
 - 📊 Skilled in **Machine Learning, NLP, Deep Learning**
 - 🧠 Passionate about solving real-world problems with AI
 - 📍 Based in India
